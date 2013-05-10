@@ -1,0 +1,5 @@
+work_with = open("turn_in_prob1.json")
+tweets = {} # initialize an empty dictionary
+
+
+print work_with.type
